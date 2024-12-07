@@ -1,5 +1,10 @@
 pandas
 streamlit
+langchain
+langchain-groq
+langchain_community
+langchain_core
+chromadb
 
 
 -e .

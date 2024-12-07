@@ -1,0 +1,1 @@
+groqcloud_key = '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'
