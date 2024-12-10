@@ -5,8 +5,7 @@ langchain-groq
 langchain_community
 langchain_core
 chromadb
-beautifulsoup4
-
+pysqlite3
 
 -e .
 
